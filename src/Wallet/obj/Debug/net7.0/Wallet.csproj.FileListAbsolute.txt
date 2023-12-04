@@ -1,0 +1,12 @@
+E:\code\github\Collaborating\CryptoCasino\src\wallet\bin\Debug\net7.0\Wallet.deps.json
+E:\code\github\Collaborating\CryptoCasino\src\wallet\bin\Debug\net7.0\Wallet.dll
+E:\code\github\Collaborating\CryptoCasino\src\wallet\bin\Debug\net7.0\Wallet.pdb
+E:\code\github\Collaborating\CryptoCasino\src\wallet\obj\Debug\net7.0\Wallet.csproj.AssemblyReference.cache
+E:\code\github\Collaborating\CryptoCasino\src\wallet\obj\Debug\net7.0\Wallet.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\github\Collaborating\CryptoCasino\src\wallet\obj\Debug\net7.0\Wallet.AssemblyInfoInputs.cache
+E:\code\github\Collaborating\CryptoCasino\src\wallet\obj\Debug\net7.0\Wallet.AssemblyInfo.cs
+E:\code\github\Collaborating\CryptoCasino\src\wallet\obj\Debug\net7.0\Wallet.csproj.CoreCompileInputs.cache
+E:\code\github\Collaborating\CryptoCasino\src\wallet\obj\Debug\net7.0\Wallet.dll
+E:\code\github\Collaborating\CryptoCasino\src\wallet\obj\Debug\net7.0\refint\Wallet.dll
+E:\code\github\Collaborating\CryptoCasino\src\wallet\obj\Debug\net7.0\Wallet.pdb
+E:\code\github\Collaborating\CryptoCasino\src\wallet\obj\Debug\net7.0\ref\Wallet.dll

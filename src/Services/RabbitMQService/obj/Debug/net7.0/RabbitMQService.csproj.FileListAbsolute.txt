@@ -1,0 +1,12 @@
+E:\code\github\Collaborating\CryptoCasino\src\services\rabbitmqservice\bin\Debug\net7.0\RabbitMQService.deps.json
+E:\code\github\Collaborating\CryptoCasino\src\services\rabbitmqservice\bin\Debug\net7.0\RabbitMQService.dll
+E:\code\github\Collaborating\CryptoCasino\src\services\rabbitmqservice\bin\Debug\net7.0\RabbitMQService.pdb
+E:\code\github\Collaborating\CryptoCasino\src\services\rabbitmqservice\obj\Debug\net7.0\RabbitMQService.csproj.AssemblyReference.cache
+E:\code\github\Collaborating\CryptoCasino\src\services\rabbitmqservice\obj\Debug\net7.0\RabbitMQService.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\github\Collaborating\CryptoCasino\src\services\rabbitmqservice\obj\Debug\net7.0\RabbitMQService.AssemblyInfoInputs.cache
+E:\code\github\Collaborating\CryptoCasino\src\services\rabbitmqservice\obj\Debug\net7.0\RabbitMQService.AssemblyInfo.cs
+E:\code\github\Collaborating\CryptoCasino\src\services\rabbitmqservice\obj\Debug\net7.0\RabbitMQService.csproj.CoreCompileInputs.cache
+E:\code\github\Collaborating\CryptoCasino\src\services\rabbitmqservice\obj\Debug\net7.0\RabbitMQService.dll
+E:\code\github\Collaborating\CryptoCasino\src\services\rabbitmqservice\obj\Debug\net7.0\refint\RabbitMQService.dll
+E:\code\github\Collaborating\CryptoCasino\src\services\rabbitmqservice\obj\Debug\net7.0\RabbitMQService.pdb
+E:\code\github\Collaborating\CryptoCasino\src\services\rabbitmqservice\obj\Debug\net7.0\ref\RabbitMQService.dll

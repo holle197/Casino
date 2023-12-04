@@ -1,0 +1,12 @@
+E:\code\github\Collaborating\CryptoCasino\src\infrastructure\inmemorydatabase\bin\Debug\net7.0\InMemoryDatabase.deps.json
+E:\code\github\Collaborating\CryptoCasino\src\infrastructure\inmemorydatabase\bin\Debug\net7.0\InMemoryDatabase.dll
+E:\code\github\Collaborating\CryptoCasino\src\infrastructure\inmemorydatabase\bin\Debug\net7.0\InMemoryDatabase.pdb
+E:\code\github\Collaborating\CryptoCasino\src\infrastructure\inmemorydatabase\obj\Debug\net7.0\InMemoryDatabase.csproj.AssemblyReference.cache
+E:\code\github\Collaborating\CryptoCasino\src\infrastructure\inmemorydatabase\obj\Debug\net7.0\InMemoryDatabase.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\github\Collaborating\CryptoCasino\src\infrastructure\inmemorydatabase\obj\Debug\net7.0\InMemoryDatabase.AssemblyInfoInputs.cache
+E:\code\github\Collaborating\CryptoCasino\src\infrastructure\inmemorydatabase\obj\Debug\net7.0\InMemoryDatabase.AssemblyInfo.cs
+E:\code\github\Collaborating\CryptoCasino\src\infrastructure\inmemorydatabase\obj\Debug\net7.0\InMemoryDatabase.csproj.CoreCompileInputs.cache
+E:\code\github\Collaborating\CryptoCasino\src\infrastructure\inmemorydatabase\obj\Debug\net7.0\InMemoryDatabase.dll
+E:\code\github\Collaborating\CryptoCasino\src\infrastructure\inmemorydatabase\obj\Debug\net7.0\refint\InMemoryDatabase.dll
+E:\code\github\Collaborating\CryptoCasino\src\infrastructure\inmemorydatabase\obj\Debug\net7.0\InMemoryDatabase.pdb
+E:\code\github\Collaborating\CryptoCasino\src\infrastructure\inmemorydatabase\obj\Debug\net7.0\ref\InMemoryDatabase.dll

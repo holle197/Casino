@@ -1,0 +1,15 @@
+E:\code\github\Collaborating\CryptoCasino\test\manualtesting\bin\Debug\net7.0\ManualTesting.exe
+E:\code\github\Collaborating\CryptoCasino\test\manualtesting\bin\Debug\net7.0\ManualTesting.deps.json
+E:\code\github\Collaborating\CryptoCasino\test\manualtesting\bin\Debug\net7.0\ManualTesting.runtimeconfig.json
+E:\code\github\Collaborating\CryptoCasino\test\manualtesting\bin\Debug\net7.0\ManualTesting.dll
+E:\code\github\Collaborating\CryptoCasino\test\manualtesting\bin\Debug\net7.0\ManualTesting.pdb
+E:\code\github\Collaborating\CryptoCasino\test\manualtesting\obj\Debug\net7.0\ManualTesting.csproj.AssemblyReference.cache
+E:\code\github\Collaborating\CryptoCasino\test\manualtesting\obj\Debug\net7.0\ManualTesting.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\github\Collaborating\CryptoCasino\test\manualtesting\obj\Debug\net7.0\ManualTesting.AssemblyInfoInputs.cache
+E:\code\github\Collaborating\CryptoCasino\test\manualtesting\obj\Debug\net7.0\ManualTesting.AssemblyInfo.cs
+E:\code\github\Collaborating\CryptoCasino\test\manualtesting\obj\Debug\net7.0\ManualTesting.csproj.CoreCompileInputs.cache
+E:\code\github\Collaborating\CryptoCasino\test\manualtesting\obj\Debug\net7.0\ManualTesting.dll
+E:\code\github\Collaborating\CryptoCasino\test\manualtesting\obj\Debug\net7.0\refint\ManualTesting.dll
+E:\code\github\Collaborating\CryptoCasino\test\manualtesting\obj\Debug\net7.0\ManualTesting.pdb
+E:\code\github\Collaborating\CryptoCasino\test\manualtesting\obj\Debug\net7.0\ManualTesting.genruntimeconfig.cache
+E:\code\github\Collaborating\CryptoCasino\test\manualtesting\obj\Debug\net7.0\ref\ManualTesting.dll

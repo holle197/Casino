@@ -1,0 +1,1 @@
+NuGet Package Manager -> Packaga Manager Console.Run command: Update-Database

@@ -1,0 +1,12 @@
+E:\code\github\Collaborating\CryptoCasino\src\infrastructure\postgresqldatabase\bin\Debug\net7.0\PostgreSQLDatabase.deps.json
+E:\code\github\Collaborating\CryptoCasino\src\infrastructure\postgresqldatabase\bin\Debug\net7.0\PostgreSQLDatabase.dll
+E:\code\github\Collaborating\CryptoCasino\src\infrastructure\postgresqldatabase\bin\Debug\net7.0\PostgreSQLDatabase.pdb
+E:\code\github\Collaborating\CryptoCasino\src\infrastructure\postgresqldatabase\obj\Debug\net7.0\PostgreSQLDatabase.csproj.AssemblyReference.cache
+E:\code\github\Collaborating\CryptoCasino\src\infrastructure\postgresqldatabase\obj\Debug\net7.0\PostgreSQLDatabase.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\github\Collaborating\CryptoCasino\src\infrastructure\postgresqldatabase\obj\Debug\net7.0\PostgreSQLDatabase.AssemblyInfoInputs.cache
+E:\code\github\Collaborating\CryptoCasino\src\infrastructure\postgresqldatabase\obj\Debug\net7.0\PostgreSQLDatabase.AssemblyInfo.cs
+E:\code\github\Collaborating\CryptoCasino\src\infrastructure\postgresqldatabase\obj\Debug\net7.0\PostgreSQLDatabase.csproj.CoreCompileInputs.cache
+E:\code\github\Collaborating\CryptoCasino\src\infrastructure\postgresqldatabase\obj\Debug\net7.0\PostgreSQLDatabase.dll
+E:\code\github\Collaborating\CryptoCasino\src\infrastructure\postgresqldatabase\obj\Debug\net7.0\refint\PostgreSQLDatabase.dll
+E:\code\github\Collaborating\CryptoCasino\src\infrastructure\postgresqldatabase\obj\Debug\net7.0\PostgreSQLDatabase.pdb
+E:\code\github\Collaborating\CryptoCasino\src\infrastructure\postgresqldatabase\obj\Debug\net7.0\ref\PostgreSQLDatabase.dll

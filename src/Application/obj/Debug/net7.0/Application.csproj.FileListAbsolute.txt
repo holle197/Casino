@@ -1,0 +1,12 @@
+E:\code\github\Collaborating\CryptoCasino\src\application\bin\Debug\net7.0\Application.deps.json
+E:\code\github\Collaborating\CryptoCasino\src\application\bin\Debug\net7.0\Application.dll
+E:\code\github\Collaborating\CryptoCasino\src\application\bin\Debug\net7.0\Application.pdb
+E:\code\github\Collaborating\CryptoCasino\src\application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+E:\code\github\Collaborating\CryptoCasino\src\application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\github\Collaborating\CryptoCasino\src\application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+E:\code\github\Collaborating\CryptoCasino\src\application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+E:\code\github\Collaborating\CryptoCasino\src\application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+E:\code\github\Collaborating\CryptoCasino\src\application\obj\Debug\net7.0\Application.dll
+E:\code\github\Collaborating\CryptoCasino\src\application\obj\Debug\net7.0\refint\Application.dll
+E:\code\github\Collaborating\CryptoCasino\src\application\obj\Debug\net7.0\Application.pdb
+E:\code\github\Collaborating\CryptoCasino\src\application\obj\Debug\net7.0\ref\Application.dll

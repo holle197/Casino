@@ -1,0 +1,37 @@
+url: https://nownodes.io/
+
+Supported chains: BTC,DOGE,LTC,ETH,ETC
+
+
+NODES:
+
+BTC:
+	mainnet:
+		Full Node: https://btc.nownodes.io
+		Explorer:  https://btcbook.nownodes.io
+
+	testnet:
+		Full Node: https://btc-testnet.nownodes.io
+		Explorer:  https://btcbook-testnet.nownodes.io
+
+
+	
+LTC:
+	mainnet:
+		Full Node: https://ltc.nownodes.io
+		Explorer:  https://ltcbook.nownodes.io
+
+	testnet:
+		Full Node: https://ltc-testnet.nownodes.io
+		Explorer:  https://ltcbook-testnet.nownodes.io
+
+DOGE:
+	mainnet:
+		Full Node: https://doge.nownodes.io
+		Explorer:  https://dogebook.nownodes.io
+
+	testnet:
+		Full Node: https://doge-testnet.nownodes.io
+		Explorer:  https://dogebook-testnet.nownodes.io
+
+More info: https://nownodes.io/nodes

@@ -1,0 +1,12 @@
+E:\code\github\Collaborating\CryptoCasino\src\notifications\bin\Debug\net7.0\Notifications.deps.json
+E:\code\github\Collaborating\CryptoCasino\src\notifications\bin\Debug\net7.0\Notifications.dll
+E:\code\github\Collaborating\CryptoCasino\src\notifications\bin\Debug\net7.0\Notifications.pdb
+E:\code\github\Collaborating\CryptoCasino\src\notifications\obj\Debug\net7.0\Notifications.csproj.AssemblyReference.cache
+E:\code\github\Collaborating\CryptoCasino\src\notifications\obj\Debug\net7.0\Notifications.GeneratedMSBuildEditorConfig.editorconfig
+E:\code\github\Collaborating\CryptoCasino\src\notifications\obj\Debug\net7.0\Notifications.AssemblyInfoInputs.cache
+E:\code\github\Collaborating\CryptoCasino\src\notifications\obj\Debug\net7.0\Notifications.AssemblyInfo.cs
+E:\code\github\Collaborating\CryptoCasino\src\notifications\obj\Debug\net7.0\Notifications.csproj.CoreCompileInputs.cache
+E:\code\github\Collaborating\CryptoCasino\src\notifications\obj\Debug\net7.0\Notifications.dll
+E:\code\github\Collaborating\CryptoCasino\src\notifications\obj\Debug\net7.0\refint\Notifications.dll
+E:\code\github\Collaborating\CryptoCasino\src\notifications\obj\Debug\net7.0\Notifications.pdb
+E:\code\github\Collaborating\CryptoCasino\src\notifications\obj\Debug\net7.0\ref\Notifications.dll
