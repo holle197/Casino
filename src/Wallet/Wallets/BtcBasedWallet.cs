@@ -63,13 +63,44 @@ namespace Wallet.Wallets
             return await _node.BroadcastTransactionAsync(singedTransaction);
         }
 
+        public async Task<string> BroadcastTransactionAsync(List<string> destinationAddress, List<decimal> amount, decimal fee)
+        {
+            var exceptionMsg = "Insufficient Funds.";
+            var utxos = await _node.GetUnspentTransactionsOutputsAsync(GetAddress());
+            if (utxos is null || !utxos.Any()) throw new WalletException(exceptionMsg);
+            var txModel = new BtcBasedTransactionModel(Network, Key, GetAddress(), AddressType, utxos, destinationAddress, amount, fee);
+            TxInputValidation(txModel);
+
+            if (!HaveEnoughFunds(txModel)) throw new WalletException(exceptionMsg);
+
+            var singedTransaction = BtcBasedRawTransaction.CreateAndSignTransaction(txModel);
+
+            return await _node.BroadcastTransactionAsync(singedTransaction);
+        }
+
 
         private void TxInputValidation(BtcBasedTransactionModel txModel)
         {
-            if (txModel.Amount < 0.00000001m) throw new WalletException("The smallest transfer amount must be greater or equal to 0.00000001");
+            CheckAmounts(txModel);
             if (txModel.Fee < 0.00000001m) throw new WalletException("The smallest fee must be greater or equal to 0.00000001");
-            if (txModel.DestinationAddr == Key.GetAddress(AddressType, Network)) throw new WalletException("You cannot send a transaction to your own address");
+            CheckDestinationsAddresses(txModel);
+        }
 
+        private static void CheckAmounts(BtcBasedTransactionModel txModel)
+        {
+            if (txModel.Amounts.Count == 0) throw new WalletException("Destination Address Are Not Found.");
+            foreach (var i in txModel.Amounts)
+            {
+                if (i <= 0m) throw new WalletException("Amount Cannot Be Less Or Equal To 0.");
+            }
+        }
+        private void CheckDestinationsAddresses(BtcBasedTransactionModel txModel)
+        {
+            if (txModel.DestinationAddresses.Count == 0) throw new WalletException("Destination Address Not Found");
+            foreach (var i in txModel.DestinationAddresses)
+            {
+                if (i == Key.GetAddress(this.AddressType, this.Network)) throw new WalletException("Destination Address Cannot Be The Same As Origin.");
+            }
         }
 
         //Checks the account for sufficient balances for the next transaction

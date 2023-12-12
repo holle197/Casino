@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Wallet.ErrorHandling;
 using Wallet.Interfaces.BtcBased;
 
 namespace Wallet.Transactions.BtcBasedTransactions
@@ -56,20 +57,40 @@ namespace Wallet.Transactions.BtcBasedTransactions
         private static void GenerateMoney(Transaction tx, IEnumerable<IUnspentTransactionOutput> bestUtxosForTx, BtcBasedTransactionModel txModel)
         {
             decimal rest = TotalBalanceInBestUtxos(bestUtxosForTx) - txModel.GetTotalAmount();
-            var moneyToSend = new Money(txModel.Amount, MoneyUnit.BTC);
+            var moneyToSend = CreateMoney(txModel.Amounts);
 
             if (rest > 0)
             {
                 var restMoney = new Money(rest, MoneyUnit.BTC);
-                tx.Outputs.Add(moneyToSend, txModel.DestinationAddr.ScriptPubKey);
+                AddMoney(moneyToSend, txModel.DestinationAddresses, tx);
                 tx.Outputs.Add(restMoney, txModel.Address.ScriptPubKey);
                 SignInputs(tx, bestUtxosForTx, txModel);
                 return;
             }
 
-            tx.Outputs.Add(moneyToSend, txModel.DestinationAddr.ScriptPubKey);
+            AddMoney(moneyToSend, txModel.DestinationAddresses, tx);
             SignInputs(tx, bestUtxosForTx, txModel);
         }
+
+        private static List<Money> CreateMoney(List<decimal> amounts)
+        {
+            var money = new List<Money>();
+            if (amounts is null || amounts.Count == 0) throw new WalletException("Insufficient Balance.");
+            foreach (var i in amounts)
+            {
+                money.Add(new Money(i, MoneyUnit.BTC));
+            }
+            return money;
+        }
+        private static void AddMoney(List<Money> money,List<BitcoinAddress> destinationsAddresses,Transaction tx)
+        {
+            if (money.Count != destinationsAddresses.Count) throw new WalletException("Equality Error.");
+            for (int i = 0; i < money.Count; i++)
+            {
+                tx.Outputs.Add(money[i], destinationsAddresses[i].ScriptPubKey);
+            }
+        }
+
 
         //used to check if wallet need to generate REST money to be return to the address
         private static decimal TotalBalanceInBestUtxos(IEnumerable<IUnspentTransactionOutput> utxos)

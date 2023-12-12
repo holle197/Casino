@@ -13,3 +13,10 @@ E:\code\github\Collaborating\CryptoCasino\test\manualtesting\obj\Debug\net7.0\re
 E:\code\github\Collaborating\CryptoCasino\test\manualtesting\obj\Debug\net7.0\ManualTesting.pdb
 E:\code\github\Collaborating\CryptoCasino\test\manualtesting\obj\Debug\net7.0\ManualTesting.genruntimeconfig.cache
 E:\code\github\Collaborating\CryptoCasino\test\manualtesting\obj\Debug\net7.0\ref\ManualTesting.dll
+E:\code\github\Collaborating\CryptoCasino\test\manualtesting\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\code\github\Collaborating\CryptoCasino\test\manualtesting\bin\Debug\net7.0\NBitcoin.dll
+E:\code\github\Collaborating\CryptoCasino\test\manualtesting\bin\Debug\net7.0\NBitcoin.Altcoins.dll
+E:\code\github\Collaborating\CryptoCasino\test\manualtesting\bin\Debug\net7.0\Newtonsoft.Json.dll
+E:\code\github\Collaborating\CryptoCasino\test\manualtesting\bin\Debug\net7.0\Wallet.dll
+E:\code\github\Collaborating\CryptoCasino\test\manualtesting\bin\Debug\net7.0\Wallet.pdb
+E:\code\github\Collaborating\CryptoCasino\test\manualtesting\obj\Debug\net7.0\ManualTesting.csproj.CopyComplete

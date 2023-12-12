@@ -11,6 +11,8 @@ namespace Wallet.Interfaces
     {
         Task<decimal> GetBalanceAsync();
         Task<string> BroadcastTransactionAsync(string destinationAddress,decimal amount,decimal fee);
+        Task<string> BroadcastTransactionAsync(List<string> destinationAddress, List<decimal> amount, decimal fee);
+
         string GetAddress();
         //returns string of wallet import format - private key
         string GetWIF();
