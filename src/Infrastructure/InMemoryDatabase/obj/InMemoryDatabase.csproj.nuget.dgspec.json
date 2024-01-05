@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\code\\github\\Collaborating\\CryptoCasino\\src\\infrastructure\\inmemorydatabase\\InMemoryDatabase.csproj": {}
+    "C:\\Users\\Christian\\source\\repos\\Casino\\src\\infrastructure\\inmemorydatabase\\InMemoryDatabase.csproj": {}
   },
   "projects": {
-    "E:\\code\\github\\Collaborating\\CryptoCasino\\src\\infrastructure\\inmemorydatabase\\InMemoryDatabase.csproj": {
+    "C:\\Users\\Christian\\source\\repos\\Casino\\src\\infrastructure\\inmemorydatabase\\InMemoryDatabase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\code\\github\\Collaborating\\CryptoCasino\\src\\infrastructure\\inmemorydatabase\\InMemoryDatabase.csproj",
+        "projectUniqueName": "C:\\Users\\Christian\\source\\repos\\Casino\\src\\infrastructure\\inmemorydatabase\\InMemoryDatabase.csproj",
         "projectName": "InMemoryDatabase",
-        "projectPath": "E:\\code\\github\\Collaborating\\CryptoCasino\\src\\infrastructure\\inmemorydatabase\\InMemoryDatabase.csproj",
-        "packagesPath": "C:\\Users\\holle197\\.nuget\\packages\\",
-        "outputPath": "E:\\code\\github\\Collaborating\\CryptoCasino\\src\\infrastructure\\inmemorydatabase\\obj\\",
+        "projectPath": "C:\\Users\\Christian\\source\\repos\\Casino\\src\\infrastructure\\inmemorydatabase\\InMemoryDatabase.csproj",
+        "packagesPath": "C:\\Users\\Christian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Christian\\source\\repos\\Casino\\src\\infrastructure\\inmemorydatabase\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\holle197\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Christian\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

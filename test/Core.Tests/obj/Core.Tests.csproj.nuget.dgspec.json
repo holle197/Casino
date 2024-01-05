@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\code\\github\\Collaborating\\CryptoCasino\\test\\core.tests\\Core.Tests.csproj": {}
+    "C:\\Users\\Christian\\source\\repos\\Casino\\test\\core.tests\\Core.Tests.csproj": {}
   },
   "projects": {
-    "E:\\code\\github\\Collaborating\\CryptoCasino\\src\\core\\Core.csproj": {
+    "C:\\Users\\Christian\\source\\repos\\Casino\\src\\core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\code\\github\\Collaborating\\CryptoCasino\\src\\core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Christian\\source\\repos\\Casino\\src\\core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "E:\\code\\github\\Collaborating\\CryptoCasino\\src\\core\\Core.csproj",
-        "packagesPath": "C:\\Users\\holle197\\.nuget\\packages\\",
-        "outputPath": "E:\\code\\github\\Collaborating\\CryptoCasino\\src\\core\\obj\\",
+        "projectPath": "C:\\Users\\Christian\\source\\repos\\Casino\\src\\core\\Core.csproj",
+        "packagesPath": "C:\\Users\\Christian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Christian\\source\\repos\\Casino\\src\\core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\holle197\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Christian\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,21 +55,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "E:\\code\\github\\Collaborating\\CryptoCasino\\test\\core.tests\\Core.Tests.csproj": {
+    "C:\\Users\\Christian\\source\\repos\\Casino\\test\\core.tests\\Core.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\code\\github\\Collaborating\\CryptoCasino\\test\\core.tests\\Core.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Christian\\source\\repos\\Casino\\test\\core.tests\\Core.Tests.csproj",
         "projectName": "Core.Tests",
-        "projectPath": "E:\\code\\github\\Collaborating\\CryptoCasino\\test\\core.tests\\Core.Tests.csproj",
-        "packagesPath": "C:\\Users\\holle197\\.nuget\\packages\\",
-        "outputPath": "E:\\code\\github\\Collaborating\\CryptoCasino\\test\\core.tests\\obj\\",
+        "projectPath": "C:\\Users\\Christian\\source\\repos\\Casino\\test\\core.tests\\Core.Tests.csproj",
+        "packagesPath": "C:\\Users\\Christian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Christian\\source\\repos\\Casino\\test\\core.tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\holle197\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Christian\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -83,8 +83,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "E:\\code\\github\\Collaborating\\CryptoCasino\\src\\core\\core.csproj": {
-                "projectPath": "E:\\code\\github\\Collaborating\\CryptoCasino\\src\\core\\core.csproj"
+              "C:\\Users\\Christian\\source\\repos\\Casino\\src\\core\\core.csproj": {
+                "projectPath": "C:\\Users\\Christian\\source\\repos\\Casino\\src\\core\\core.csproj"
               }
             }
           }
@@ -136,7 +136,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

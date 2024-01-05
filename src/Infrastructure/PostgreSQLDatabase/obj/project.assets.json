@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\holle197\\.nuget\\packages\\": {}
+    "C:\\Users\\Christian\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\code\\github\\Collaborating\\CryptoCasino\\src\\infrastructure\\PostgreSQLDatabase\\PostgreSQLDatabase.csproj",
+      "projectUniqueName": "C:\\Users\\Christian\\source\\repos\\Casino\\src\\infrastructure\\postgresqldatabase\\PostgreSQLDatabase.csproj",
       "projectName": "PostgreSQLDatabase",
-      "projectPath": "E:\\code\\github\\Collaborating\\CryptoCasino\\src\\infrastructure\\PostgreSQLDatabase\\PostgreSQLDatabase.csproj",
-      "packagesPath": "C:\\Users\\holle197\\.nuget\\packages\\",
-      "outputPath": "E:\\code\\github\\Collaborating\\CryptoCasino\\src\\infrastructure\\PostgreSQLDatabase\\obj\\",
+      "projectPath": "C:\\Users\\Christian\\source\\repos\\Casino\\src\\infrastructure\\postgresqldatabase\\PostgreSQLDatabase.csproj",
+      "packagesPath": "C:\\Users\\Christian\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Christian\\source\\repos\\Casino\\src\\infrastructure\\postgresqldatabase\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\holle197\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Christian\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

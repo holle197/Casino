@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xci69yEb8Q+GIMyF/eVv9PjQMiAS5WN2xt5FqBYwUzDDldCgaJjQn20gPQEGXUL6eexrWdfoQw3H5mX1ZEs32w==",
+  "dgSpecHash": "8b5wnyDn0nKiQs2MdptXk7p5gu4xxio7ayQSS6TS8E67sWPIfe5d6A20wPMLZov7la95AKzoN6lBf1wcWaw7vQ==",
   "success": true,
-  "projectFilePath": "E:\\code\\github\\Collaborating\\CryptoCasino\\src\\services\\rabbitmqservice\\RabbitMQService.csproj",
+  "projectFilePath": "C:\\Users\\Christian\\source\\repos\\Casino\\src\\services\\rabbitmqservice\\RabbitMQService.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\code\\github\\Collaborating\\CryptoCasino\\src\\notifications\\Notifications.csproj": {}
+    "C:\\Users\\Christian\\source\\repos\\Casino\\src\\notifications\\Notifications.csproj": {}
   },
   "projects": {
-    "E:\\code\\github\\Collaborating\\CryptoCasino\\src\\notifications\\Notifications.csproj": {
+    "C:\\Users\\Christian\\source\\repos\\Casino\\src\\notifications\\Notifications.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\code\\github\\Collaborating\\CryptoCasino\\src\\notifications\\Notifications.csproj",
+        "projectUniqueName": "C:\\Users\\Christian\\source\\repos\\Casino\\src\\notifications\\Notifications.csproj",
         "projectName": "Notifications",
-        "projectPath": "E:\\code\\github\\Collaborating\\CryptoCasino\\src\\notifications\\Notifications.csproj",
-        "packagesPath": "C:\\Users\\holle197\\.nuget\\packages\\",
-        "outputPath": "E:\\code\\github\\Collaborating\\CryptoCasino\\src\\notifications\\obj\\",
+        "projectPath": "C:\\Users\\Christian\\source\\repos\\Casino\\src\\notifications\\Notifications.csproj",
+        "packagesPath": "C:\\Users\\Christian\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Christian\\source\\repos\\Casino\\src\\notifications\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\holle197\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Christian\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

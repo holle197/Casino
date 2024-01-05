@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sopuDHAydJZ2Hnsy7KhKNQVcVEXPuFAWqUoFJ4BzTCYPoeNjSv+4+gfuzjxNaua2PZgozKkRrloNvkNeoumOyw==",
+  "dgSpecHash": "0J5IWVKXwEAwaIvftgWMFhpEamnNlOyZO+xQBe6qUyBNCQjFU2ubOO3cqnxYh8bESbocNpLYvDrCXtm6D8sTXQ==",
   "success": true,
-  "projectFilePath": "E:\\code\\github\\Collaborating\\CryptoCasino\\src\\infrastructure\\postgresqldatabase\\PostgreSQLDatabase.csproj",
+  "projectFilePath": "C:\\Users\\Christian\\source\\repos\\Casino\\src\\infrastructure\\postgresqldatabase\\PostgreSQLDatabase.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -26,25 +26,30 @@ namespace Wallet.Transactions.BtcBasedTransactions
             return transaction.ToHex();
         }
 
-        //method loop through all unsorted ienumerable of utxos and picking while amount < utxo.value
-        //this is not optimised for economical use
-        //later we need to decide what will be better for transaction: use much smaller utxos or big one
-        //possible implementing search algorithm to match what is the best for incomming tx
-        //example : 2utxos of 1btc when we sending is better to use if we sending 2btc than 1 utxos of 2.1btc => 0.1btc will be
-        //added to our utxo pool 
+
         private static IEnumerable<IUnspentTransactionOutput> PickBestUtxos(IEnumerable<IUnspentTransactionOutput> utxos, decimal totalAmount)
         {
-            decimal total = 0;
-            List<IUnspentTransactionOutput> bestUtxos = new();
-            foreach (var utxo in utxos)
-            {
-                if (total >= totalAmount) break;
-                total += Convert.ToDecimal(utxo.GetValue());
-                bestUtxos.Add(utxo);
-            }
-            return bestUtxos;
-        }
+            var sortedUtxos = utxos.OrderBy(utxo => utxo.GetValue()).ToList();
+            decimal currentTotal = 0;
+            List<IUnspentTransactionOutput> favorableUtxos = new List<IUnspentTransactionOutput>();
 
+            foreach (var utxo in sortedUtxos)
+            {
+                if (currentTotal >= totalAmount) break;
+
+                if (currentTotal + Convert.ToDecimal(utxo.GetValue()) <= totalAmount)
+                {
+                    currentTotal += Convert.ToDecimal(utxo.GetValue());
+                    favorableUtxos.Add(utxo);
+                }
+                else
+                {
+                   
+                }
+            }
+            return favorableUtxos;
+        }
+        
         private static void GenerateOutpoints(Transaction tx, IEnumerable<IUnspentTransactionOutput> utxos)
         {
             foreach (var utxo in utxos)

@@ -5644,19 +5644,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\holle197\\.nuget\\packages\\": {}
+    "C:\\Users\\Christian\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\code\\github\\Collaborating\\CryptoCasino\\test\\wallet.tests\\WalletTests.csproj",
+      "projectUniqueName": "C:\\Users\\Christian\\source\\repos\\Casino\\test\\wallet.tests\\WalletTests.csproj",
       "projectName": "WalletTests",
-      "projectPath": "E:\\code\\github\\Collaborating\\CryptoCasino\\test\\wallet.tests\\WalletTests.csproj",
-      "packagesPath": "C:\\Users\\holle197\\.nuget\\packages\\",
-      "outputPath": "E:\\code\\github\\Collaborating\\CryptoCasino\\test\\wallet.tests\\obj\\",
+      "projectPath": "C:\\Users\\Christian\\source\\repos\\Casino\\test\\wallet.tests\\WalletTests.csproj",
+      "packagesPath": "C:\\Users\\Christian\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Christian\\source\\repos\\Casino\\test\\wallet.tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\holle197\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Christian\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5670,8 +5670,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "E:\\code\\github\\Collaborating\\CryptoCasino\\src\\wallet\\wallet.csproj": {
-              "projectPath": "E:\\code\\github\\Collaborating\\CryptoCasino\\src\\wallet\\wallet.csproj"
+            "C:\\Users\\Christian\\source\\repos\\Casino\\src\\wallet\\wallet.csproj": {
+              "projectPath": "C:\\Users\\Christian\\source\\repos\\Casino\\src\\wallet\\wallet.csproj"
             }
           }
         }
@@ -5723,7 +5723,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
